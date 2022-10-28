@@ -22,6 +22,8 @@ private slots:
 
     void on_pbExit_clicked();
 
+    void on_pbTrain_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
